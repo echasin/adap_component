@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "generator-jhipster-entity-audit": "2.4.0",
+    "generator-jhipster-entity-audit-and-delete": "2.2.2",
+    "generator-jhipster": "4.1.0"
+  }
+}
